@@ -44,8 +44,8 @@
           <version>3.7.0</version>
 
         <configuration>
-					<source>${java-version}</source>
-					<target>${java-version}</target>
+					<source>1.9</source>
+					<target>1.9</target>
 					<fork>true</fork>
 					<executable>C:\Program Files (x86)\Java\jdk1.7.0_79\bin\javac</executable>
 	</configuration>
